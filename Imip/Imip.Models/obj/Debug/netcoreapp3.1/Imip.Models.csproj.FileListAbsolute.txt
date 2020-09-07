@@ -1,0 +1,9 @@
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\bin\Debug\netcoreapp3.1\Imip.Models.deps.json
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\bin\Debug\netcoreapp3.1\Imip.Models.dll
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\obj\Debug\netcoreapp3.1\Imip.Models.csprojAssemblyReference.cache
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\obj\Debug\netcoreapp3.1\Imip.Models.AssemblyInfoInputs.cache
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\obj\Debug\netcoreapp3.1\Imip.Models.AssemblyInfo.cs
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\bin\Debug\netcoreapp3.1\Imip.Models.pdb
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\obj\Debug\netcoreapp3.1\Imip.Models.csproj.CoreCompileInputs.cache
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\obj\Debug\netcoreapp3.1\Imip.Models.dll
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.Models\obj\Debug\netcoreapp3.1\Imip.Models.pdb

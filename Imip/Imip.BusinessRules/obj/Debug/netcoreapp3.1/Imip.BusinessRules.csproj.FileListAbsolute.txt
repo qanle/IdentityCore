@@ -1,0 +1,12 @@
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\bin\Debug\netcoreapp3.1\Imip.BusinessRules.deps.json
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\bin\Debug\netcoreapp3.1\Imip.BusinessRules.dll
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\bin\Debug\netcoreapp3.1\Imip.BusinessRules.pdb
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\bin\Debug\netcoreapp3.1\Imip.Models.dll
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\bin\Debug\netcoreapp3.1\Imip.Models.pdb
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\obj\Debug\netcoreapp3.1\Imip.BusinessRules.csprojAssemblyReference.cache
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\obj\Debug\netcoreapp3.1\Imip.BusinessRules.AssemblyInfoInputs.cache
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\obj\Debug\netcoreapp3.1\Imip.BusinessRules.AssemblyInfo.cs
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\obj\Debug\netcoreapp3.1\Imip.BusinessRules.csproj.CoreCompileInputs.cache
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\obj\Debug\netcoreapp3.1\Imip.BusinessRules.csproj.CopyComplete
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\obj\Debug\netcoreapp3.1\Imip.BusinessRules.dll
+C:\IMIPDev\AngularNetCore\Ex5\Imip\Imip.BusinessRules\obj\Debug\netcoreapp3.1\Imip.BusinessRules.pdb
